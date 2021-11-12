@@ -1,0 +1,2 @@
+# extgo
+extension for golang
